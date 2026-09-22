@@ -13,4 +13,4 @@ jobs:
       - name: Configure
         run: cmake --preset debug
       - name: Build
-        run: cmake --build debug
+        run: cmake --build build
